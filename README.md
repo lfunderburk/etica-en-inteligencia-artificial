@@ -1,4 +1,4 @@
-# ética en inteligencia artificial: una introducción a Fairlearn
+# Ética en inteligencia artificial: una introducción a Fairlearn
 
 Material de instrucción para SciPy Lat 2021
 
