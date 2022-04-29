@@ -4,9 +4,11 @@ Material de instrucción para SciPy Lat 2021
 
 ## Cómo acceder el material (binder)
 
-Presiona el botón
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgfunderburk/etica-en-inteligencia-artificial/HEAD?labpath=etica-en-inteligencia-artificial.ipynb)
+
+Tutorial [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lgfunderburk/etica-en-inteligencia-artificial/HEAD?labpath=etica-en-inteligencia-artificial.ipynb)
+
+PyCon US 2022 Charla [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfunderburk/etica-en-inteligencia-artificial/HEAD?labpath=PyConUS2022-etica-en-inteligencia-artificial.ipynb)
 
 ## Cómo acceder el material (local)
 
