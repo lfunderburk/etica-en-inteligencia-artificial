@@ -112,7 +112,7 @@ def plot_pointplot(df, metric):
     
    
     plt.show()
-    
+
 def resample_dataset(X_train, Y_train, A_train):
     """
     Resample dataset to account for balance in model
@@ -138,8 +138,8 @@ def resample_dataset(X_train, Y_train, A_train):
     A_train = A_train.loc[balanced_ids, :]
     
     return X_train, Y_train, A_train
-    
-    
+
+
 def train_model(df):
     
     df_c = df.copy()
@@ -166,7 +166,6 @@ def train_model(df):
             "readmit_30_days"
         ]))
 
-    display(X)
     
     ## Split data intro training and testing data
     
@@ -221,7 +220,6 @@ if __name__ == '__main__':
     
     print("Loading data")
     df = pd.read_csv("https://raw.githubusercontent.com/fairlearn/talks/main/2021_scipy_tutorial/data/diabetic_preprocessed.csv")
-    display(df.head())
     display(df.info())
     
     print("Assigning category-based columns")
