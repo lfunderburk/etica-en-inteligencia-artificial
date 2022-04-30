@@ -2,6 +2,8 @@
 
 Material de instrucción para SciPy Lat 2021, PyCon US 2022
 
+Laura Gutierrez Funderburk
+
 ## Cómo acceder el material (binder)
 
 
